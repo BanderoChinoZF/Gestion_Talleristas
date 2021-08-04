@@ -1,0 +1,17 @@
+.hide{
+    display: none;
+}
+
+.dataTable th{
+    text-align: center;
+}
+
+.buttons-excel{
+    float: right;
+    background: #69c66c;
+    border: none;
+    width: 90px;
+    border-radius: 15px;
+    color: white;
+    height: 29px;
+}
